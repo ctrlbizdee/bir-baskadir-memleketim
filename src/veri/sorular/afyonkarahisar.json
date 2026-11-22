@@ -1,0 +1,702 @@
+[
+  {
+    "no": 1,
+    "kategori": "Yiyecek",
+    "zorluk": "kolay",
+    "soru": "Afyonkarahisar hangi tatlıyla ünlüdür?",
+    "dogru": "Lokum",
+    "yanlislar": [
+      "Baklava",
+      "Künefe",
+      "Kadayıf",
+      "Sütlaç",
+      "Revani"
+    ]
+  },
+  {
+    "no": 2,
+    "kategori": "Genel",
+    "zorluk": "kolay",
+    "soru": "Afyonkarahisar adındaki \"Afyon\" sözcüğü hangi bitkiye dayanır?",
+    "dogru": "Haşhaş",
+    "yanlislar": [
+      "Pamuk",
+      "Fındık",
+      "Çay",
+      "Tütün",
+      "Zeytin"
+    ]
+  },
+  {
+    "no": 3,
+    "kategori": "Yiyecek",
+    "zorluk": "kolay",
+    "soru": "Afyonkarahisar'ın coğrafi işaretli et ürünlerinden biri hangisidir?",
+    "dogru": "Afyon sucuğu",
+    "yanlislar": [
+      "Adana kebabı",
+      "Urfa kebabı",
+      "İskender",
+      "Çiğ köfte",
+      "Kokoreç"
+    ]
+  },
+  {
+    "no": 4,
+    "kategori": "Yiyecek",
+    "zorluk": "kolay",
+    "soru": "Afyon kaymağı hangi hayvanın sütünden yapılır?",
+    "dogru": "Manda",
+    "yanlislar": [
+      "İnek",
+      "Koyun",
+      "Keçi",
+      "Deve",
+      "At"
+    ]
+  },
+  {
+    "no": 5,
+    "kategori": "Genel",
+    "zorluk": "kolay",
+    "soru": "Afyonkarahisar hangi doğal taşıyla ünlüdür?",
+    "dogru": "Mermer",
+    "yanlislar": [
+      "Granit",
+      "Traverten",
+      "Oniks",
+      "Bazalt",
+      "Kireçtaşı"
+    ]
+  },
+  {
+    "no": 6,
+    "kategori": "Genel",
+    "zorluk": "kolay",
+    "soru": "Afyonkarahisar'ın plaka kodu kaçtır?",
+    "dogru": "03",
+    "yanlislar": [
+      "04",
+      "07",
+      "15",
+      "20",
+      "42"
+    ]
+  },
+  {
+    "no": 7,
+    "kategori": "Ünlü yer",
+    "zorluk": "kolay",
+    "soru": "Afyonkarahisar şehir merkezinde yükselen, adını da şehre veren tarihi yapı hangisidir?",
+    "dogru": "Karahisar Kalesi",
+    "yanlislar": [
+      "Akhisar Kalesi",
+      "Kızılhisar Kalesi",
+      "Sarıhisar Kalesi",
+      "Yenihisar Kalesi",
+      "Demirhisar Kalesi"
+    ]
+  },
+  {
+    "no": 8,
+    "kategori": "Ünlü yer",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'ın kuzeyinde, ünlü kaplıcalarıyla bilinen yer neresidir?",
+    "dogru": "Gazlıgöl",
+    "yanlislar": [
+      "Pamukkale",
+      "Kızılcahamam",
+      "Bursa Çekirge",
+      "Sarıkamış",
+      "Beypazarı"
+    ]
+  },
+  {
+    "no": 9,
+    "kategori": "Alışveriş",
+    "zorluk": "kolay",
+    "soru": "Aşağıdakilerden hangisi Afyonkarahisar'daki bir alışveriş merkezidir?",
+    "dogru": "Afium",
+    "yanlislar": [
+      "Forum Bornova",
+      "Kanyon",
+      "Cevahir",
+      "Optimum",
+      "Mall of Istanbul"
+    ]
+  },
+  {
+    "no": 10,
+    "kategori": "Alışveriş",
+    "zorluk": "kolay",
+    "soru": "Aşağıdakilerden hangisi Afyonkarahisar'daki bir alışveriş merkezidir?",
+    "dogru": "Park Afyon",
+    "yanlislar": [
+      "Akasya",
+      "Zorlu Center",
+      "Palladium",
+      "Podium",
+      "Marmara Forum"
+    ]
+  },
+  {
+    "no": 11,
+    "kategori": "İlçe",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'ın hangi ilçesine \"Gurbetin Başkenti\" denir?",
+    "dogru": "Emirdağ",
+    "yanlislar": [
+      "Cide",
+      "Çal",
+      "Honaz",
+      "Bozdoğan",
+      "Tavas"
+    ]
+  },
+  {
+    "no": 12,
+    "kategori": "İlçe",
+    "zorluk": "orta",
+    "soru": "1960'lardan itibaren Belçika'ya en yoğun göç Afyonkarahisar'ın hangi ilçesinden olmuştur?",
+    "dogru": "Emirdağ",
+    "yanlislar": [
+      "Dazkırı",
+      "Şuhut",
+      "Çobanlar",
+      "Hocalar",
+      "Evciler"
+    ]
+  },
+  {
+    "no": 13,
+    "kategori": "İlçe",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'ın hangi ilçesi halılarıyla ünlüdür?",
+    "dogru": "Dazkırı",
+    "yanlislar": [
+      "Altıntaş",
+      "Tavşanlı",
+      "Gediz",
+      "Simav",
+      "Emet"
+    ]
+  },
+  {
+    "no": 14,
+    "kategori": "İlçe",
+    "zorluk": "orta",
+    "soru": "Aşağıdakilerden hangisi Afyonkarahisar'ın ilçesidir?",
+    "dogru": "Sandıklı",
+    "yanlislar": [
+      "Bozüyük",
+      "Sivrihisar",
+      "Seyitgazi",
+      "Çivril",
+      "Acıpayam"
+    ]
+  },
+  {
+    "no": 15,
+    "kategori": "İlçe",
+    "zorluk": "orta",
+    "soru": "Aşağıdakilerden hangisi Afyonkarahisar'ın ilçesidir?",
+    "dogru": "Bolvadin",
+    "yanlislar": [
+      "Tire",
+      "Ödemiş",
+      "Bayındır",
+      "Kiraz",
+      "Kemalpaşa"
+    ]
+  },
+  {
+    "no": 16,
+    "kategori": "İlçe",
+    "zorluk": "zor",
+    "soru": "Sultandağı ilçesi hangi meyvesiyle bilinir?",
+    "dogru": "Kiraz",
+    "yanlislar": [
+      "Elma",
+      "Portakal",
+      "Üzüm",
+      "İncir",
+      "Nar"
+    ]
+  },
+  {
+    "no": 17,
+    "kategori": "İlçe",
+    "zorluk": "zor",
+    "soru": "Çay ilçesi hangi meyvesiyle bilinir?",
+    "dogru": "Vişne",
+    "yanlislar": [
+      "Kayısı",
+      "Şeftali",
+      "Hurma",
+      "Muz",
+      "Çilek"
+    ]
+  },
+  {
+    "no": 18,
+    "kategori": "Komşu il",
+    "zorluk": "orta",
+    "soru": "Aşağıdakilerden hangisi Afyonkarahisar'ın komşu illerinden biridir?",
+    "dogru": "Kütahya",
+    "yanlislar": [
+      "Samsun",
+      "Mersin",
+      "Edirne",
+      "Rize",
+      "Hatay"
+    ]
+  },
+  {
+    "no": 19,
+    "kategori": "Komşu il",
+    "zorluk": "orta",
+    "soru": "Aşağıdakilerden hangisi Afyonkarahisar'ın komşu illerinden biridir?",
+    "dogru": "Eskişehir",
+    "yanlislar": [
+      "Sinop",
+      "Adana",
+      "Kars",
+      "Bitlis",
+      "Muş"
+    ]
+  },
+  {
+    "no": 20,
+    "kategori": "Bölge",
+    "zorluk": "kolay",
+    "soru": "Afyonkarahisar hangi coğrafi bölgemizde yer alır?",
+    "dogru": "Ege",
+    "yanlislar": [
+      "Akdeniz",
+      "Karadeniz",
+      "Marmara",
+      "Doğu Anadolu",
+      "Güneydoğu Anadolu"
+    ]
+  },
+  {
+    "no": 21,
+    "kategori": "Üniversite",
+    "zorluk": "kolay",
+    "soru": "Afyonkarahisar'daki devlet üniversitesinin adı nedir?",
+    "dogru": "Afyon Kocatepe Üniversitesi",
+    "yanlislar": [
+      "Dumlupınar Üniversitesi",
+      "Pamukkale Üniversitesi",
+      "Süleyman Demirel Üniversitesi",
+      "Anadolu Üniversitesi",
+      "Selçuk Üniversitesi"
+    ]
+  },
+  {
+    "no": 22,
+    "kategori": "Devlet adamı",
+    "zorluk": "orta",
+    "soru": "Türkiye'nin 10. cumhurbaşkanı kimdir ve hangi ilde doğmuştur?",
+    "dogru": "Ahmet Necdet Sezer, Afyonkarahisar",
+    "yanlislar": [
+      "Abdullah Gül, Kayseri",
+      "Süleyman Demirel, Isparta",
+      "Turgut Özal, Malatya",
+      "Kenan Evren, Alaşehir",
+      "Cevdet Sunay, Trabzon"
+    ]
+  },
+  {
+    "no": 23,
+    "kategori": "Devlet adamı",
+    "zorluk": "orta",
+    "soru": "Ahmet Necdet Sezer hangi liseden mezun olmuştur?",
+    "dogru": "Afyon Lisesi",
+    "yanlislar": [
+      "Galatasaray Lisesi",
+      "Ankara Atatürk Lisesi",
+      "İzmir Atatürk Lisesi",
+      "Kabataş Lisesi",
+      "Robert Kolej"
+    ]
+  },
+  {
+    "no": 24,
+    "kategori": "Devlet adamı",
+    "zorluk": "zor",
+    "soru": "İlker Başbuğ'un Afyonkarahisar doğumlu olduğu bilinir. Hangi görevde bulunmuştur?",
+    "dogru": "Genelkurmay Başkanı",
+    "yanlislar": [
+      "Millî Eğitim Bakanı",
+      "Cumhurbaşkanı",
+      "Başbakan",
+      "Anayasa Mahkemesi Başkanı",
+      "Dışişleri Bakanı"
+    ]
+  },
+  {
+    "no": 25,
+    "kategori": "Tarih",
+    "zorluk": "kolay",
+    "soru": "Büyük Taarruz sonrası Başkomutan Meydan Muharebesi hangi yılda yapılmıştır?",
+    "dogru": "1922",
+    "yanlislar": [
+      "1919",
+      "1920",
+      "1921",
+      "1923",
+      "1918"
+    ]
+  },
+  {
+    "no": 26,
+    "kategori": "Tarih",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'ın eski adı olan Karahisar-ı Sahib'in \"Sahib\" kısmı kimin unvanından gelir?",
+    "dogru": "Sahib Ata Fahreddin Ali",
+    "yanlislar": [
+      "Sahib Giray",
+      "Sahib Çelebi",
+      "Sahib Mehmed Paşa",
+      "Sahib Osman",
+      "Sahib Ahmet"
+    ]
+  },
+  {
+    "no": 27,
+    "kategori": "Tarih",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'da her yıl hangi anma ve kutlama programı yapılır?",
+    "dogru": "Zafer Halk Yürüyüşü ve kurtuluş törenleri",
+    "yanlislar": [
+      "Çanakkale anma törenleri",
+      "Hıdırellez şenlikleri",
+      "Üzüm festivali",
+      "Nevruz şenlikleri",
+      "Kiraz bayramı"
+    ]
+  },
+  {
+    "no": 28,
+    "kategori": "Gastronomi",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar hangi UNESCO ağına dahil olmuştur?",
+    "dogru": "Yaratıcı Şehirler Ağı, Gastronomi",
+    "yanlislar": [
+      "Dünya Mirası Listesi, Doğa",
+      "Yaratıcı Şehirler Ağı, Müzik",
+      "Somut Olmayan Miras, Dans",
+      "Yaratıcı Şehirler Ağı, Edebiyat",
+      "Dünya Belleği, Yazma"
+    ]
+  },
+  {
+    "no": 29,
+    "kategori": "Gastronomi",
+    "zorluk": "zor",
+    "soru": "Afyonkarahisar 2019'da UNESCO tarafından Türkiye'nin kaçıncı gastronomi şehri ilan edilmiştir?",
+    "dogru": "3.",
+    "yanlislar": [
+      "1.",
+      "2.",
+      "4.",
+      "5.",
+      "6."
+    ]
+  },
+  {
+    "no": 30,
+    "kategori": "Gastronomi",
+    "zorluk": "zor",
+    "soru": "Afyonkarahisar'dan önce hangi iki şehir UNESCO Gastronomi Şehri olmuştur?",
+    "dogru": "Gaziantep ve Hatay",
+    "yanlislar": [
+      "İstanbul ve Bursa",
+      "İzmir ve Antalya",
+      "Konya ve Kayseri",
+      "Adana ve Mersin",
+      "Trabzon ve Rize"
+    ]
+  },
+  {
+    "no": 31,
+    "kategori": "Yiyecek",
+    "zorluk": "orta",
+    "soru": "Emirdağ'ın coğrafi işaretli lezzetlerinden biri hangisidir?",
+    "dogru": "Dolgulu köfte",
+    "yanlislar": [
+      "Beyran",
+      "Tantuni",
+      "Çiğ börek",
+      "Hamsi tava",
+      "Mıhlama"
+    ]
+  },
+  {
+    "no": 32,
+    "kategori": "Yiyecek",
+    "zorluk": "orta",
+    "soru": "Sandıklı'nın coğrafi işaretli lezzetlerinden biri hangisidir?",
+    "dogru": "Kürek helvası",
+    "yanlislar": [
+      "Peynir helvası",
+      "Tahin helvası",
+      "Irmik helvası",
+      "Un helvası",
+      "Havuç helvası"
+    ]
+  },
+  {
+    "no": 33,
+    "kategori": "Yiyecek",
+    "zorluk": "zor",
+    "soru": "Bolvadin'in coğrafi işaretli lezzetlerinden biri hangisidir?",
+    "dogru": "Bolvadin mantısı",
+    "yanlislar": [
+      "Kayseri mantısı",
+      "Çorum mantısı",
+      "Tokat mantısı",
+      "Sinop mantısı",
+      "Rize mantısı"
+    ]
+  },
+  {
+    "no": 34,
+    "kategori": "Yiyecek",
+    "zorluk": "zor",
+    "soru": "Dinar'ın coğrafi işaretli lezzetlerinden biri hangisidir?",
+    "dogru": "Taptama köfte",
+    "yanlislar": [
+      "İnegöl köfte",
+      "Akçaabat köfte",
+      "Tire köfte",
+      "Kadınbudu köfte",
+      "Izgara köfte"
+    ]
+  },
+  {
+    "no": 35,
+    "kategori": "Yiyecek",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'ın coğrafi işaretli kahvaltılık ürünlerinden biri hangisidir?",
+    "dogru": "Haşhaş ezmesi",
+    "yanlislar": [
+      "Fındık ezmesi",
+      "Susam ezmesi",
+      "Fıstık ezmesi",
+      "Badem ezmesi",
+      "Ceviz ezmesi"
+    ]
+  },
+  {
+    "no": 36,
+    "kategori": "Yiyecek",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'ın coğrafi işaretli tatlılarından biri hangisidir?",
+    "dogru": "Kaymaklı ekmek kadayıfı",
+    "yanlislar": [
+      "Ayva tatlısı",
+      "Kabak tatlısı",
+      "Şekerpare",
+      "İrmik tatlısı",
+      "Tulumba"
+    ]
+  },
+  {
+    "no": 37,
+    "kategori": "Yiyecek",
+    "zorluk": "zor",
+    "soru": "Şuhut'un coğrafi işaretli ürünü hangisidir?",
+    "dogru": "Patates",
+    "yanlislar": [
+      "Domates",
+      "Biber",
+      "Soğan",
+      "Sarımsak",
+      "Havuç"
+    ]
+  },
+  {
+    "no": 38,
+    "kategori": "Yiyecek",
+    "zorluk": "zor",
+    "soru": "Afyonkarahisar'a özgü, adı \"ilibada\" olan yemek hangi yaprakla hazırlanır?",
+    "dogru": "Evelik",
+    "yanlislar": [
+      "Asma",
+      "Lahana",
+      "Ispanak",
+      "Pazı",
+      "Nane"
+    ]
+  },
+  {
+    "no": 39,
+    "kategori": "Yiyecek",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'da \"velense\" adlı yemek hangi türdendir?",
+    "dogru": "Hamur aşı",
+    "yanlislar": [
+      "Tatlı",
+      "İçecek",
+      "Salata",
+      "Turşu",
+      "Kahvaltılık"
+    ]
+  },
+  {
+    "no": 40,
+    "kategori": "Yiyecek",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'ın meşhur nişan kurabiyesi ne zaman yapılır?",
+    "dogru": "Nişan ve düğün törenlerinde",
+    "yanlislar": [
+      "Ramazan sofralarında",
+      "Yılbaşında",
+      "Hasatta",
+      "Cenazelerde",
+      "Okul açılışında"
+    ]
+  },
+  {
+    "no": 41,
+    "kategori": "Doğa",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'daki hangi yer kuş gözlemciliğiyle bilinir?",
+    "dogru": "Eber Gölü",
+    "yanlislar": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Sapanca Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü"
+    ]
+  },
+  {
+    "no": 42,
+    "kategori": "Doğa",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'daki hangi tabiat parkı kampıyla bilinir?",
+    "dogru": "Akdağ Tabiat Parkı",
+    "yanlislar": [
+      "Kızılcahamam Tabiat Parkı",
+      "Abant Tabiat Parkı",
+      "Yedigöller Milli Parkı",
+      "Uludağ Milli Parkı",
+      "Köprülü Kanyon"
+    ]
+  },
+  {
+    "no": 43,
+    "kategori": "Doğa",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'daki Frig Vadisi hangi uygarlıkla ilişkilidir?",
+    "dogru": "Frigler",
+    "yanlislar": [
+      "Hititler",
+      "Lidyalılar",
+      "Urartular",
+      "Sümerler",
+      "Etrüskler"
+    ]
+  },
+  {
+    "no": 44,
+    "kategori": "Alışveriş",
+    "zorluk": "kolay",
+    "soru": "Afium hangi tür alışveriş merkezidir?",
+    "dogru": "Açık hava alışveriş merkezi",
+    "yanlislar": [
+      "Kapalı çarşı",
+      "Yer altı çarşısı",
+      "Dev market",
+      "Sanal mağaza",
+      "Gezici pazar"
+    ]
+  },
+  {
+    "no": 45,
+    "kategori": "Gastronomi",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar hangi coğrafi işaretli kahvaltılık süt ürünüyle bilinir?",
+    "dogru": "Manda yoğurdu",
+    "yanlislar": [
+      "Deve yoğurdu",
+      "Keçi peyniri",
+      "Koyun peyniri",
+      "Tulum peyniri",
+      "Lor peyniri"
+    ]
+  },
+  {
+    "no": 46,
+    "kategori": "Genel",
+    "zorluk": "kolay",
+    "soru": "Afyonkarahisar'ın en tanınmış dokuma ürünlerinden biri hangisidir?",
+    "dogru": "Halı ve kilim",
+    "yanlislar": [
+      "Hereke ipeği",
+      "Denim",
+      "Kadife",
+      "Keten",
+      "Pamuklu bez"
+    ]
+  },
+  {
+    "no": 47,
+    "kategori": "Genel",
+    "zorluk": "orta",
+    "soru": "Afyonkarahisar'da 31 Ekim 2019'da hangi unvan alınmıştır?",
+    "dogru": "UNESCO Gastronomi Şehri",
+    "yanlislar": [
+      "Dünya Mirası Şehri",
+      "Mavi Bayrak Şehri",
+      "Kitap Şehri",
+      "Spor Şehri",
+      "Müzik Şehri"
+    ]
+  },
+  {
+    "no": 48,
+    "kategori": "Genel",
+    "zorluk": "orta",
+    "soru": "Afyon sucuğu hangi etle hazırlanır?",
+    "dogru": "Dana eti",
+    "yanlislar": [
+      "Tavuk eti",
+      "Hindi eti",
+      "Balık eti",
+      "Kuzu eti",
+      "Keçi eti"
+    ]
+  },
+  {
+    "no": 49,
+    "kategori": "Genel",
+    "zorluk": "orta",
+    "soru": "Afyon Kocatepe Üniversitesi hangi yılda kurulmuştur?",
+    "dogru": "1992",
+    "yanlislar": [
+      "1982",
+      "1972",
+      "2002",
+      "2012",
+      "1962"
+    ]
+  },
+  {
+    "no": 50,
+    "kategori": "Genel",
+    "zorluk": "kolay",
+    "soru": "Afyonkarahisar'ın eski adı olan Karahisar-ı Sahib, şehrin ortasında yükselen neye dayanır?",
+    "dogru": "Koyu renkli volkanik kayalar ve hisar",
+    "yanlislar": [
+      "Mermer ocakları",
+      "Kaplıca suları",
+      "Haşhaş tarlaları",
+      "Bozkır düzlüğü",
+      "Frig yolu"
+    ]
+  }
+]
