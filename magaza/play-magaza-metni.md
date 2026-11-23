@@ -9,6 +9,9 @@ Memleketini ne kadar biliyorsun? İl il bilgi yarışması, ünvanını kap!
 ## Tam açıklama
 Memleketini gerçekten tanıyor musun? Bir Başkadır Memleketim, Türkiye'nin illerini yemeklerinden ilçelerine, doğal güzelliklerinden ünlü yerlerine kadar soran eğlenceli bir bilgi yarışması.
 
+ŞU AN OYNANABİLEN İLLER
+Adana, Afyonkarahisar, Amasya, Ankara, Antalya, Eskişehir, Gaziantep, İstanbul, İzmir, Konya, Muğla, Sinop ve Şanlıurfa. Yakında Türkiye'nin tüm illeri eklenecek!
+
 Her il için 50 soru seni bekliyor. Sorulara doğru cevap verdikçe o ilin ne kadarını bildiğin yüzde olarak artıyor ve ünvanın yükseliyor: misafirlikten başlayıp "memleketin evladı" olana kadar!
 
 NASIL OYNANIR

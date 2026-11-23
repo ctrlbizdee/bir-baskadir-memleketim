@@ -35,4 +35,4 @@ Hesabınızın ve tüm oyun verilerinizin silinmesini istiyorsanız aşağıdaki
 
 ## İletişim
 
-Sorularınız ve silme talepleriniz için: [İLETİŞİM E-POSTASI EKLENECEK]
+Sorularınız ve silme talepleriniz için: ctrlbizdee@gmail.com
