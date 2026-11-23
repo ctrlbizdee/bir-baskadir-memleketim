@@ -6,6 +6,7 @@ import {
   yanlisaKadarSec, yeniIsaretiGosterilsinMi, yuzde,
 } from '../oyun/kurallar';
 import { ilBul } from '../veri/iller';
+import { VITRIN } from '../veri/vitrin';
 import { cevapGonder, durumlariYukle, oyunBaslat, oyunBitir } from '../veri/ilerleme';
 import { Renkler, useRenk } from '../tema';
 
@@ -22,7 +23,7 @@ function bilinenSayisi(d: Map<number, Durum>) {
 export default function Oyun() {
   const renk = useRenk();
   const s = useMemo(() => stiller(renk), [renk]);
-  const p = useLocalSearchParams<{ il: string; mod: Mod }>();
+  const p = useLocalSearchParams<{ il: string; mod: Mod; vitrin?: string }>();
   const il = ilBul(Number(p.il))!;
   const mod: Mod = p.mod === 'yanlisa_kadar' ? 'yanlisa_kadar' : 'onluk';
 
@@ -57,6 +58,23 @@ export default function Oyun() {
         setGorulmusler(new Set(d.keys()));
         setSorular(secim);
         setSiklar(siklariHazirla(secim[0]));
+        if (VITRIN && p.vitrin === 'sonuc') {
+          // Mağaza görüntüsü için örnek bir tur sonu
+          for (let no = 42; no <= 44; no++) d.set(il.id * 1000 + no, 'dogru');
+          setDogruSayisi(8);
+          setCevaplanan(10);
+          setTurPuani(31);
+          setAsama('bitti');
+          return;
+        }
+        if (VITRIN && p.vitrin === 'cevap') {
+          setSecilen(secim[0].dogru);
+          setSeri(4);
+          setTurPuani(12);
+          setKalan(6);
+          setAsama('cevap');
+          return;
+        }
         setAsama('soru');
       } catch {
         setAsama('hata');

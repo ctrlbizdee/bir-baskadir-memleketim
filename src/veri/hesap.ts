@@ -1,6 +1,7 @@
 import type { Session } from '@supabase/supabase-js';
 import { useEffect, useState } from 'react';
 import { supabase } from './supabase';
+import { VITRIN, VITRIN_KULLANICI } from './vitrin';
 
 // Üyelik: e-posta yok, kullanıcı adı + 4 karakterlik şifre.
 // Supabase e-posta ve en az 6 karakterlik şifre istediği için ikisi arka planda türetilir.
@@ -60,8 +61,11 @@ export async function cikisYap() {
 
 /** undefined = henüz yükleniyor, null = giriş yok */
 export function useOturum(): Session | null | undefined {
-  const [oturum, setOturum] = useState<Session | null | undefined>(undefined);
+  const [oturum, setOturum] = useState<Session | null | undefined>(
+    VITRIN ? ({ user: { user_metadata: { kullanici_adi: VITRIN_KULLANICI } } } as unknown as Session) : undefined,
+  );
   useEffect(() => {
+    if (VITRIN) return;
     supabase.auth.getSession().then(({ data }) => setOturum(data.session));
     const { data } = supabase.auth.onAuthStateChange((_o, s) => setOturum(s));
     return () => data.subscription.unsubscribe();

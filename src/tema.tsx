@@ -1,6 +1,7 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { createContext, ReactNode, useContext, useEffect, useState } from 'react';
 import { supabase } from './veri/supabase';
+import { VITRIN } from './veri/vitrin';
 
 export interface Renkler {
   zemin: string;
@@ -65,6 +66,7 @@ export function TemaSaglayici({ children }: { children: ReactNode }) {
   const [tema, setTema] = useState<TemaAdi>(VARSAYILAN);
 
   useEffect(() => {
+    if (VITRIN) return; // vitrin modunda varsayılan tema sabit kalır
     // Önce telefondaki seçim (hızlı). Hiç yoksa ilk açılış: herkese rastgele bir tema.
     AsyncStorage.getItem(ANAHTAR)
       .then((t) => {
